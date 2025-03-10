@@ -1,101 +1,24 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+<h1 align="center">Hi 👋, I'm Damia Athirah</h1>
+<h3 align="center">A passionate software tester in Malaysia</h3>
 
-<div id="profile-view" align="right">
-  <img src="https://komarev.com/ghpvc/?username=H4zlq&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damiathirah&label=Profile%20views&color=0e75b6&style=flat" alt="damiathirah" /> </p>
 
-### :man_technologist: About me:
+- 🌱 I’m currently learning **Frontend Development**
 
-<div id="about-me">
-    <p>
-      I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia
-    </p>
-  <ul>
-    <li>🧑‍💻 I’m currently a developer on <a href="https://www.ovshosting.com/">OVS Hosting</a>
-    <li>🏢 Currently an internship in Apex Group</li>
-    <li>🌱 I’m currently learning Go Programming Language</li>
-    <li>👯 I’m looking to collaborate on open-source projects</li>
-    <li>🥅 2024 Goals: Contribute more to the GitHub community</li>
-    <li>🚀 Contact me if you're interested in making a final year project for last semester</li>
-    <li>⚡ Fun fact: I love to play games and explore something entertaining</li>
-  </ul>
-</div>
+- 🤝 I’m looking for help with **HTML, CSS and JavaScript**
 
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nx_im)
+- 📫 How to reach me **damiathirah1@gmail.com**
 
-### Social media:
-<div id="social-media">
-  <a href="https://www.youtube.com/channel/UCGDY-2kT5zYuyMPulAlW5aw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
-  </a>
-  <a href="https://twitter.com/h_4zlq">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" />
-  </a>
-  <a href="https://www.tiktok.com/@nxim_dev">
-    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white"  alt="Tiktok Badge">
-  </a>
-  <a href="https://discord.com/users/217655947194007552">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-  </a>
-  <a href="https://wa.me/60195071820">
-    <img src="https://img.shields.io/badge/Whatsapp-%23075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/damiathirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiathirah" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### :hammer_and_wrench: Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damiathirah&show_icons=true&locale=en&layout=compact" alt="damiathirah" /></p>
 
-<table id="language-and-tools">
-  <tr>
-    <td valign="top" width="25%">
-      <!-- Languages -->
-      <h6>Languages</h6>
-      <div align="center">
-        <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" /></a>
-        <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50" /></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" /></a>
-        <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50" /></a>
-        <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" /></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50" /></a>
-        <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <!-- Tools -->
-      <h6>Tools</h6>
-      <div align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50" /></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" /></a>
-        <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="50" height="50" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <!-- Framework -->
-      <h6>Framework</h6>
-      <div align="center">
-        <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50" /></a>
-        <a href="https://discord.js.org/#/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="50" height="50" /></a>
-        <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" /></a>
-        <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50" /></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"></a>
-        <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"></a>
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damiathirah&show_icons=true&locale=en" alt="damiathirah" /></p>
 
-### :fire: My Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=H4zlq&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4zlq&layout=compact&theme=vision-friendly-dark)](https://github.com/H4zlq)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damiathirah&" alt="damiathirah" /></p>
